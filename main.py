@@ -1,5 +1,3 @@
-
-
 import requests, datetime as dt, calendar
 URL_WEATHER = 'http://api.openweathermap.org/data/2.5/onecall'
 API_WEATHER = 'YOUR OPENWEATHER API'
